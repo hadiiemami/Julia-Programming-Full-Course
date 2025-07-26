@@ -1,0 +1,10 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "skills": ["Julia", "Python", "R"],
+    "details": {
+      "city": "New York",
+      "job": "Data Scientist"
+    }
+  }
+  
